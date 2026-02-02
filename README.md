@@ -340,7 +340,7 @@ Contributions are welcome! Please:
 
 ## License
 
-This library is licensed under the **GNU Lesser General Public License v2.1 (LGPL-2.1)**.
+This library is licensed under the **MIT License**.
 
 See the [LICENSE](LICENSE) file for the full license text.
 
